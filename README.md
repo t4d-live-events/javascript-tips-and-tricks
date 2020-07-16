@@ -1,10 +1,10 @@
-<img src="images/t4d-io-logo-black.svg" width="200">
+<img src="images/t4d-io-logo-black.svg" width="200" alt="T4D.IO Logo">
 
 # JavaScript Tips and Tricks Live Coding Events
 
 This series is sponsored by Accelebrate:
 
-![Accelebrate Logo](images/accelebrate.png "Accelebrate Logo")
+<img src="images/accelebrate.png" width="300" alt="Accelebrate Logo">
 
 To view the archived videos and sign up for notifications of new live sessions visit here: [https://www.t4d.io/live-programming-events](https://www.t4d.io/live-programming-events)
 
