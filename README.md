@@ -2,7 +2,7 @@
 
 # JavaScript Tips and Tricks Live Coding Events
 
-This series is sponsored by Accelebrate:
+This series is sponsored by <a href="http://www.accelebrate.com">Accelebrate</a>:
 
 <a href="http://www.accelebrate.com"><img src="images/accelebrate.png" width="175" alt="Accelebrate Logo"></a>
 
