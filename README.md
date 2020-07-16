@@ -2,11 +2,18 @@
 
 # JavaScript Tips and Tricks Live Coding Events
 
+To view the archived videos and sign up for notifications of new live sessions visit here: [https://www.t4d.io/live-programming-events](https://www.t4d.io/live-programming-events)
+
+## Our Sponsor
+
 This series is sponsored by <a href="http://www.accelebrate.com">Accelebrate</a>:
 
 <a href="http://www.accelebrate.com"><img src="images/accelebrate.png" width="175" alt="Accelebrate Logo"></a>
 
-To view the archived videos and sign up for notifications of new live sessions visit here: [https://www.t4d.io/live-programming-events](https://www.t4d.io/live-programming-events)
+Accelebrate’s training classes are available for private groups of 3 or more people at your site or online anywhere worldwide.
+
+Don't settle for a "one size fits all" public class! Have Accelebrate deliver exactly the training you want, privately at your site or online, for less than the cost of a public class.
+
 
 ## Episode 1 - July 16, 2020
 
