@@ -1,4 +1,4 @@
-![T4D.IO Logo](images/t4d-io-logo-black.svg "T4D.IO Logo")
+<img src="images/t4d-io-logo-black.svg" width="200">
 
 # JavaScript Tips and Tricks Live Coding Events
 
