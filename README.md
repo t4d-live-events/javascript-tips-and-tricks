@@ -1,10 +1,10 @@
-<img src="images/t4d-io-logo-black.svg" width="200" alt="T4D.IO Logo">
+<a href="http://www.t4d.io"><img src="images/t4d-io-logo-black.svg" width="200" alt="T4D.IO Logo"></a>
 
 # JavaScript Tips and Tricks Live Coding Events
 
 This series is sponsored by Accelebrate:
 
-<a href="http://www.accelebrate.com"><img src="images/accelebrate.png" width="100" alt="Accelebrate Logo"></a>
+<a href="http://www.accelebrate.com"><img src="images/accelebrate.png" width="175" alt="Accelebrate Logo"></a>
 
 To view the archived videos and sign up for notifications of new live sessions visit here: [https://www.t4d.io/live-programming-events](https://www.t4d.io/live-programming-events)
 
