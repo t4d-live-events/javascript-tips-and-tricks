@@ -2,7 +2,7 @@
 
 # JavaScript Tips and Tricks Live Coding Events
 
-To view the archived videos and sign up for notifications of new live sessions visit here: [https://www.t4d.io/live-programming-events](https://www.t4d.io/live-programming-events)
+To view the archived episodes and sign up for notifications of new live sessions visit here: [https://www.t4d.io/live-programming-events](https://www.t4d.io/live-programming-events)
 
 ## Our Sponsor
 
@@ -14,7 +14,8 @@ Accelebrate’s training classes are available for private groups of 3 or more p
 
 Don't settle for a "one size fits all" public class! Have Accelebrate deliver exactly the training you want, privately at your site or online, for less than the cost of a public class.
 
+## Episodes
 
-## Episode 1 - July 16, 2020
+### Episode 1 - July 16, 2020
 
 Eric discussed coding JavaScript from a declarative and semantic perspective. Writing code from declarative and semantic perspective results in code which is easier to understand and maintain. Its one of the more important aspects of JavaScript coding which Eric covers in his live classes.
