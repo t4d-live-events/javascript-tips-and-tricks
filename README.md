@@ -14,7 +14,7 @@ Accelebrate’s training classes are available for private groups of 3 or more p
 
 Don't settle for a "one size fits all" public class! Have Accelebrate deliver exactly the training you want, privately at your site or online, for less than the cost of a public class.
 
-For pricing and to learn more, please [contact us](https://www.accelebrate.com/contact)! - Please check out our [Google Reviews](https://www.google.com/search?q=Accelebrate,+Inc,+925B+Peachtree+St+NW,+Atlanta,+GA+30309&ludocid=4922770552284347091#lrd=0x88f50468249a9fb3:0x445131bc3fa97ad3,1)!
+For pricing and to learn more, please [contact Accelebrate](https://www.accelebrate.com/contact)! - Please check out Accelebrate's [Google Reviews](https://www.google.com/search?q=Accelebrate,+Inc,+925B+Peachtree+St+NW,+Atlanta,+GA+30309&ludocid=4922770552284347091#lrd=0x88f50468249a9fb3:0x445131bc3fa97ad3,1)!
 
 ## Episodes
 
