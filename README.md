@@ -4,7 +4,7 @@
 
 This series is sponsored by Accelebrate:
 
-[http://www.accelebrate.com](<img src="images/accelebrate.png" width="100" alt="Accelebrate Logo">)
+<a href="http://www.accelebrate.com"><img src="images/accelebrate.png" width="100" alt="Accelebrate Logo"></a>
 
 To view the archived videos and sign up for notifications of new live sessions visit here: [https://www.t4d.io/live-programming-events](https://www.t4d.io/live-programming-events)
 
