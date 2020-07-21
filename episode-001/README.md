@@ -13,4 +13,4 @@ To load the web page from a web server, install [Node.js](https://nodejs.org), t
 npx serve .
 ```
 
-To view the output open the JavaScript console in the web browser's developer tools.
+To view the output, open the JavaScript console in the web browser's developer tools.
