@@ -8,24 +8,48 @@
 
   const nums = [1,2,3,4,5];
 
-  // const doubleNums = [];
+  console.log('original nums => ', nums)
 
-  // imperative code - what and how
-  // for (let x=0; x<nums.length; x++) {
-  //  doubleNums.push(nums[x] * 2);
-  // }
+  const doubleNumsA = [];
 
-  // declarative code - what
-  // semantic meaning -> when you to perform a side effect
-  // nums.forEach(num => {
-  //   doubleNums.push(num * 2);
-  // });
+  // * imperative code - what and how
+  for (let x=0; x<nums.length; x++) {
+    doubleNumsA.push(nums[x] * 2);
+  }
 
-  // semantic meaning of map - transform from one array to another
-  const doubleNums = nums.map(num => {
+  console.log('Imperative Example: doubleNumsA => ', doubleNumsA);
+
+  const doubleNumsB = [];
+
+  // * declarative code - what
+  nums.forEach(num => {
+     doubleNumsB.push(num * 2);
+  });
+
+  console.log('Declarative Example: doubleNumsB => ', doubleNumsB);
+
+  // * declarative code, can also have a semantic meaning
+
+  // * for example, the "forEach" function indicates that the code
+  //   in the loop is perform side-effects (changing state outside
+  //   of itself)
+
+  // * another useful declarative array function is the map function
+  
+  // * the semantic meaning of map is to transform from one array to
+  // another
+  const doubleNumsC = nums.map(num => {
     return num * 2;
   });
 
+  console.log('Declarative Map Example: doubleNumsC => ', doubleNumsC);
+
+  // * the array functon reduce does not really have a semantic meaning
+  // * reduce can be used to implement the other declarative array
+  // functions
+  
+  // * to make reduce more meaningful, it can be wrapped in a function
+  //   which has a more semantically meaningful name
   const sum = (nums) => nums.reduce(
     (acc, current) => acc + current,
     0,
@@ -33,10 +57,6 @@
 
   const numsSum = sum(nums);
 
-
-
-  console.log(nums);
-  console.log(doubleNums);
-  console.log(numsSum);
+  console.log('Declarative Wrapper Around Reduce: numsSum => ', numsSum);
 
 </script>
