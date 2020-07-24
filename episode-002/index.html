@@ -1,0 +1,112 @@
+<script>
+
+  'use strict';
+
+  // Demo 1 - Function Syntax
+
+  // function declaration
+  function doIt() {
+    console.log('did it!');
+  }
+
+  // function expression
+  const doIt2 = function() {
+    console.log('did it 2!');
+  };
+
+  // arrow function
+  const doIt3 = () => {
+    console.log('did it 3!');
+  };
+
+  doIt();
+  doIt2();
+  doIt3();
+
+</script>
+<script>
+
+  'use strict';
+
+  // Demo 2 - Arrow Function Implementation
+
+  // these two functions do the same thing
+
+  const add = (x,y) => {
+    return x + y;
+  }
+
+  const add2 = (x,y) => x + y;
+
+  console.log( add(1,2) );
+  console.log( add2(1,2) );
+
+</script>
+<script>
+
+  'use strict';
+
+  // Demo 3 - Function Parameters and Arguments
+
+  const add3 = (x,y /* parameters - variables */) => x + y;
+
+  console.log( add3(1,2 /* arguments - expressions */) );
+
+</script>
+<script>
+
+  'use strict';
+
+  // Demo 4 - Defining a Function, Assigning a Function Reference,
+  //          and Invoking a Function
+
+  // function reference below is assigned to op
+  const log = (op) => {
+    // function is invoked with he arguments 5 and 2
+    console.dir( op(5,2) );
+  };
+
+  // argument is the creation of a function object whose
+  // reference is passed into the function and assigned
+  // to the parameter 'op' above
+  log( (x,y) => x * y );
+
+  // same as above, just with a keyword style function
+  // log(function (x, y) {
+  //  return x * y;
+  // });
+
+</script>
+<script>
+
+  'use strict'; 
+  
+  // Demo 5 - Call-Site This and Lexical This
+
+  // keyword-style functions - call-site this
+  function doIt() {
+    console.log(this);
+
+    // const that = this;
+
+    // arrow functions - lexical this
+    const inner = () => {
+      console.log(this);
+    }
+
+    inner();
+  }
+
+  // doIt();
+  // window.doIt();
+
+  const o = {
+    id: 2,
+    doIt: doIt,
+  };
+
+  o.doIt();
+
+  // console.log(o.doIt === window.doIt);
+
+</script>
